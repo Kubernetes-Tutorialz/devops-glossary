@@ -1,3 +1,7 @@
+## Objective
+
+Use esse glassário para você estudar em torno das principais ferramentas de DevOps e os principais conceitos que envolvem o processo de esteira do DevOps. Fique a vontade para me ajudar a escrever esse documento, pense nisso como se fosse um glassário comunitário, onde MUITAS pessoas acessam e escrevem sobre os conceitos e ferramentas de acordo com o seu nível de entendimento. Use para entrevistas de emprego sobre DevOps, para projetos e/ou estudos e SEMPRE compartilhe.
+
 ## Table of Contents
 1. [Ansible](#Ansible)
 2. [Terraform](#Terraform)
@@ -45,5 +49,13 @@ asasas
 sas
 
 #### How it helps
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
