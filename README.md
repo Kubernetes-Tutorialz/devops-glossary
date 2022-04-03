@@ -1,6 +1,6 @@
 ## Objective
 
-Use esse glassário para você estudar em torno das principais ferramentas de DevOps e os principais conceitos que envolvem o processo de esteira do DevOps. Fique a vontade para me ajudar a escrever esse documento, pense nisso como se fosse um glassário comunitário, onde MUITAS pessoas acessam e escrevem sobre os conceitos e ferramentas de acordo com o seu nível de entendimento. Use para entrevistas de emprego sobre DevOps, para projetos e/ou estudos e SEMPRE compartilhe.
+Use esse glassário para você estudar em torno das principais ferramentas de DevOps e os principais conceitos que envolvem o processo de esteira do DevOps. Resolvi manter o glossário em PT-BR justamente para ajudar as pessoas que estão começando na área. Fique a vontade para me ajudar a escrever esse documento, pense nisso como se fosse um glassário comunitário, onde MUITAS pessoas acessam e escrevem sobre os conceitos e ferramentas de acordo com o seu nível de entendimento. Use para entrevistas de emprego sobre DevOps, para projetos e/ou estudos e SEMPRE compartilhe.
 
 ## Table of Contents
 1. [Ansible](#Ansible)
