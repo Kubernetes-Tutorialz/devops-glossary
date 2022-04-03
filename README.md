@@ -17,7 +17,8 @@ Ansible é uma ferramenta de automação utilizada para gerência de configuraç
 - [ ] *inventory file*: arquivo utilizado para gerenciamento dos hosts que o Ansible vai afetar
 
 #### How it helps
-Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da sua infraestrutura de forma simples e veloz. A ideia do *Ansible* é automatizar em grande escala servidores, ativos de redes usando a abordagem de *IaC* (Infrastructure as Code).
+Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da sua infraestrutura de forma simples e consistente. O gerenciamento de configuração é o processo usado para manter sistemas computacionais, servidores e softwares em um estado desejado, consistentemente. É uma forma de se certificar de que o sistema funciona como o esperado enquanto as mudanças são feitas. Tradicionalmente, isso é feito de forma manual ou por meio de scripts personalizados criados por administradores de sistemas. Quando o Ansible é usado como uma ferramenta de gerenciamento de configuração, ele ajuda a armazenar e auxiliar na manutenção do estado atual dos sistemas. 
+
 
 ## Terraform
 
