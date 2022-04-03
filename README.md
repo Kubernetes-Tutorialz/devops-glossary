@@ -25,15 +25,16 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 ## Terraform
 
 #### What is it
-Terraform é uma ferramenta de *Infrastructure as Code (IaC)*, utilizada para provisionamento de infraestrutura em diversos *providers*, como, AWS, Azure, Google Cloud, Kubernetes, GitLab e outros. Essa abordagem de *IaC* vem sendo muito empregada pelo mercado para você manter sua infraestrutura via código, sendo gerenciado e mantida através do *Git*. Sua infraestrutura é escrita via Terraform usando uma linguagem de configuração declarativa conhecida como *HashiCorp Configuration Language* ou HCL
+Terraform é uma ferramenta de *Infrastructure as Code (IaC)*, utilizada para provisionamento de infraestrutura em diversos *providers*, como, AWS, Azure, Google Cloud, Kubernetes, GitLab e outros. Essa abordagem de *IaC* vem sendo muito empregada pelo mercado para você manter sua infraestrutura via código, sendo gerenciada e mantida através do *Git*. Sua infraestrutura é escrita via Terraform usando uma linguagem de configuração declarativa conhecida como *HashiCorp Configuration Language* ou *HCL*.
 
 #### Main concepts
+- [ ] *providers*: é o bloco onde você declara qual é o seu *provider* ou produto que você pretende provisionar a infraestrutura ou serviços.
+- [ ] *resources*: é o bloco onde você declara um ou mais objetos da infraestrutura, como exemplo, redes virtuais, instâncias de computação e/ou componentes de armazenamento.
+- [ ] *tfstate*:
+- [ ] *modules*:
 
 #### How it helps
-
-
-
-
+O Terraform ajuda você a manter a infraestrutura de rede de forma segura e eficiente, pois ele consegue gerenciar o estado da mesma, ou seja, ele entende o que você esta aplicando e quando pretender destruir, ele também saberá o que remover. O Terraform é capaz de determinar o que mudou e criar planos de execução incrementais que podem ser aplicados no seu ambiente. O Terraform é desenvolvido e mantido pela empresa Hashicorp. Ele é gratuito com código fonte aberto e você pode efetuar contribuições na comunidade através do GitHub.
 
 ## DevOps
 
