@@ -31,7 +31,7 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 - [ ] *providers*: é o bloco onde você declara qual é o seu *provider* ou produto que você pretende provisionar a infraestrutura ou serviços.
 - [ ] *resources*: é o bloco onde você declara um ou mais objetos/recuros da infraestrutura, como exemplo, redes virtuais, instâncias de computação e/ou componentes de armazenamento.
 - [ ] *tfstate*: arquivo usado pelo Terraform para gerenciamento do estado da infraestrutura, aqui nesse arquivo que o Terraform sabe o que foi aplicado ou destruído da infraestrutura.
-- [ ] *modules*: é o bloco usado para você declarar módulos para o Terraform, os módulos ajudam a deixar seu projeto de Terraform mais organizado, menos complexo e mais consistente.
+- [ ] *modules*: é o bloco usado para você declarar módulos para o Terraform, os módulos ajudam a deixar seu projeto de Terraform mais organizado, menos complexo e menos repetição de código.
 
 #### How it helps
 O Terraform ajuda você a manter a infraestrutura de rede de forma segura e eficiente, pois ele consegue gerenciar o estado da mesma, ou seja, ele entende o que você esta aplicando e quando pretender destruir, ele também saberá o que remover. O Terraform é capaz de determinar o que mudou e criar planos de execução incrementais que podem ser aplicados no seu ambiente. O Terraform é desenvolvido e mantido pela empresa Hashicorp. Ele é gratuito com código fonte aberto e você pode efetuar contribuições na comunidade através do GitHub.
