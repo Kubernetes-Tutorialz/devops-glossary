@@ -25,6 +25,14 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 ## Terraform
 
 #### What is it
+Terraform é uma ferramenta de *Infrastructure as Code (IaC)*, utilizada para provisionamento de infraestrutura em diversos *providers*, como, AWS, Azure, Google Cloud, Kubernetes, GitLab e outros. Essa abordagem de *IaC* vem sendo muito empregada pelo mercado para você manter sua infraestrutura via código, sendo gerenciado e mantida através do *Git*. Sua infraestrutura é escrita via Terraform usando uma linguagem de configuração declarativa conhecida como *HashiCorp Configuration Language* ou HCL
+
+#### Main concepts
+
+#### How it helps
+
+
+
 
 
 ## DevOps
