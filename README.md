@@ -1,6 +1,6 @@
 ## Objective
 
-Use esse glossário para você estudar sobre as [ferramentas](https://4linux.com.br/ferramentas-do-mundo-devops/) de DevOps e os principais conceitos que envolvem o processo de [esteira](https://www.edureka.co/blog/devops-lifecycle/) do DevOps. Resolvi manter o glossário em português, justamente para ajudar as pessoas que estão começando na [área](https://gomex.me/blog/primeiros_passos_devops/). Fique a vontade para me ajudar a escrever esse documento, pense nesse repositório como se fosse um glossário comunitário, onde MUITAS pessoas acessam e escrevem sobre os conceitos e ferramentas, baseadas em suas experiências. Use para entrevistas de DevOps, estudos, projetos e SEMPRE [compartilhe](https://amauryborgesouza.medium.com/). 
+Use esse glossário para você estudar sobre as [ferramentas](https://4linux.com.br/ferramentas-do-mundo-devops/) de DevOps e os principais conceitos que envolvem o processo de esteira do [DevOps](https://aws.amazon.com/pt/devops/what-is-devops/). Resolvi manter o glossário em português, justamente para ajudar as pessoas que estão começando na [área](https://gomex.me/blog/primeiros_passos_devops/). Fique a vontade para me ajudar a escrever esse documento, pense nesse repositório como se fosse um glossário comunitário, onde MUITAS pessoas acessam e escrevem sobre os conceitos e ferramentas, baseadas em suas experiências. Use para entrevistas de DevOps, estudos, projetos e SEMPRE [compartilhe](https://amauryborgesouza.medium.com/). 
 
 ## Table of Contents
 1. [Ansible](#Ansible)
