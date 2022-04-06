@@ -80,11 +80,13 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 ## GitLab
 
 #### What is it
-[GitLab](https://about.gitlab.com/) é uma das principais ferramentas de DevOps hoje no mercado de TI, isso devido a toda gama de serviços oferecida, indo desde de pipeline de CI/CD até recursos avançados de segurança.
+[GitLab](https://about.gitlab.com/) é uma das principais ferramentas de DevOps hoje no mercado de TI, isso devido a toda gama de serviços oferecida, indo desde a parte de pipeline de CI/CD até recursos avançados de segurança.
 
 #### Main concepts
-- [ ] *Pipelines*: 
-- [ ] *Milestones*: 
+- [ ] *Pipelines*: dentro do GitLab um pipeline é toda a esteira que envolve o processo de CI/CD do software/produto.
+- [ ] *Milestones*: uma forma de rastrear problemas para atingir uma meta maior do projeto
+- [ ] *Merge Requests*: são sugestões de melhorias que você cria para um determinado projeto/código.
+- [ ] *Projects*: é a forma de você organizar seu projeto com issues, merge requests, pipelines de CI/CD.
 
 #### How it helps
 
