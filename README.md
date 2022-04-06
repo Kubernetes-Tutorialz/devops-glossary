@@ -87,6 +87,8 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 - [ ] *Milestones*: uma forma de rastrear problemas para atingir uma meta maior do projeto
 - [ ] *Merge Requests*: são sugestões de melhorias que você cria para um determinado projeto/código.
 - [ ] *Projects*: é a forma de você organizar seu projeto com issues, merge requests, pipelines de CI/CD.
+- [ ] *Continuous Delivery (CD)*: é uma prática na qual as alterações de código são implantadas automaticamente.
+- [ ] *Continuous integration (CI)*: é a prática de integrar alterações de código com a maior regularidade possível.
 
 #### Alternatives
 - [ ] [GitHub](https://github.com/)
@@ -95,9 +97,10 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 - [ ] [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/#overview)
 - [ ] [AWS CodePipeline](https://aws.amazon.com/pt/codepipeline/)
 - [ ] [Drone](https://www.drone.io/)
-- [ ] [TraviS CI](https://travis-ci.org/)
+- [ ] [Travis CI](https://travis-ci.org/)
 
 #### How it helps
+O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de DevOps, seja para desenvolvimento de software/produtos quanto para desenvolvimento de infraestrutura/serviços. Tendo o GitLab implantado no seu ambinente você poderá fazer deploys mais assertivos e de forma mais veloz prezando sempre pela segurança. Outro insight legal da ferramenta é que ela fornece a integração com diversas ferramentas de DevOps como Kubernetes, Terraform, AWS.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
