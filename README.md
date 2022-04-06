@@ -48,12 +48,19 @@ O Terraform ajuda você a manter a infraestrutura de rede de forma segura e efic
 ## DevOps
 
 #### What is it
-asasas
+Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e/ou cargo... mimimi! Esquece isso, DevOps é cultura e ainda mais, vai além da implementação de um conjunto de tecnologias e exige uma mudança completa na cultura e nos processos. Sempre digo que os pilares do DevOps parte da colaboração, comunicação (assíncrona) e automação. Voltado agora para o mercado de trabalho, DevOps está associado à todo o processo, desde o desenvolvimento de aplicativos/infraestrutura até a operação/deploy em produção, daí o termo DevOps.
 
 #### Main concepts
-sas
+- [ ] *IaC*: é a sigla em inglês que define *Infrastructure as Code*. Significa usar a abordagem de *IaC* para desenvolver sua infraestrutura.
+- [ ] *Pipeline*: é o que dizem por esteira de DevOps, ou seja, todo o processo e ferramentas envolvidas desde o desenvolvimento até  deploy da aplicação.
+- [ ] *DevSecOps*: quando a segurança é a prioridade de todos em uma equipe de DevOps, usamos esse outro termo que está voltado as boas práticas de segurança.
+- [ ] *GitOps*: abordagem focada em usar o Git para gerenciamento de infraestrutura e aplicação.
+- [ ] *DevOps Engineer*: cargo criado pelo LinkedIn para o profissional que atua diretamente com a implementação de tecnologias da esteira de DevOps e a sua cultura.
+- [ ] *Dev*: desenvolviment.
+- [ ] *Ops*: operações.
 
 #### How it helps
+Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOps, você vai terá muitas vantagens e ganhos na entrega do seu produto/software. O DevOps ajuda na qualidade do código, diminuição de erros humanos, deploys mais rápidos e consistentes com a utlização de boas práticas de CI/CD. Sem contar nas muitas abordagens que estão envolvidas dentro do ciclo de DevOps, podemos citar *IaC*, *GitOps*, *DevSecOps*, entre outras.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
