@@ -84,6 +84,7 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 
 #### Main concepts
 - [ ] *Pipelines*: 
+- [ ] *Milestones*: 
 
 #### How it helps
 
