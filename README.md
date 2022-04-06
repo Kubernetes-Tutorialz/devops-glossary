@@ -102,6 +102,20 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 #### How it helps
 O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de DevOps, seja para desenvolvimento de software/produtos quanto para desenvolvimento de infraestrutura/serviços. Tendo o GitLab implantado no seu ambinente você poderá fazer deploys mais assertivos e de forma mais veloz prezando sempre pela segurança. Outro insight legal da ferramenta é que ela fornece a integração com diversas ferramentas de DevOps como Kubernetes, Terraform, AWS.
 
+## Kubernetes
+
+#### What iS it
+
+#### Alternatives
+- [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
+- [ ] [AWS: EKS](https://aws.amazon.com/pt/eks/)
+- [ ] [GCP: GKE](https://cloud.google.com/kubernetes-engine?hl=pt-br)
+- [ ] [Azure: AKS](https://azure.microsoft.com/pt-br/services/kubernetes-service/)
+- [ ] [Nomad](https://www.nomadproject.io/)
+- [ ] [Rancher](https://rancher.com/)
+
+#### How it helps
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
