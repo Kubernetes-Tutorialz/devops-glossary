@@ -44,10 +44,10 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 [Terraform](https://www.terraform.io/) é uma ferramenta de *Infrastructure as Code (IaC)*, utilizada para provisionamento de infraestrutura em diversos *providers*, como, AWS, Azure, Google Cloud, Kubernetes, GitLab e outros. Essa abordagem de *IaC* vem sendo muito empregada pelo mercado para você manter sua infraestrutura via código, sendo gerenciada e mantida através do *Git*. Sua infraestrutura é escrita via Terraform usando uma linguagem de configuração declarativa conhecida como *HashiCorp Configuration Language* ou *HCL*.
 
 #### Main concepts
-- [ ] *providers*: é o bloco onde você declara qual é o seu *provider* ou produto que você pretende provisionar a infraestrutura ou serviços.
-- [ ] *resources*: é o bloco onde você declara um ou mais objetos/recuros da infraestrutura, como exemplo, redes virtuais, instâncias de computação e/ou componentes de armazenamento.
-- [ ] *tfstate*: arquivo usado pelo Terraform para gerenciamento do estado da infraestrutura, aqui nesse arquivo que o Terraform sabe o que foi aplicado ou destruído da infraestrutura.
-- [ ] *modules*: é o bloco usado para você declarar módulos para o Terraform, os módulos ajudam a deixar seu projeto de Terraform mais organizado, menos complexo e menos repetição de código.
+- [ ] *providers*: é o bloco onde você declara qual é o seu produto/Cloud para provisionamento da infraestrutura.
+- [ ] *resources*: é o bloco onde você declara um ou mais objetos/recuros da infraestrutura, *VPC*, *EC2*, *RDS*, *ELB*.
+- [ ] *tfstate*: arquivo usado pelo Terraform para gerenciamento do estado da infraestrutura.
+- [ ] *modules*: é o bloco usado para tratar os módulos (organização, menos complexibilidade e menos repetição de código).
 
 #### Alternatices
 - [ ] [Pulumi](https://www.pulumi.com/)
