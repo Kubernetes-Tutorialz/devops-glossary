@@ -63,6 +63,15 @@ Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e
 #### How it helps
 Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOps, você terá muitas vantagens e ganhos na entrega do seu produto/software. O DevOps ajuda na qualidade do código, diminuição de erros humanos, deploys mais rápidos e consistentes com a utlização de boas práticas de CI/CD. Sem contar nas muitas abordagens que estão envolvidas dentro do ciclo de DevOps, podemos citar *IaC*, *GitOps*, *DevSecOps*, entre outras.
 
+## GitLab
+
+#### What is it
+(GitLab)[https://about.gitlab.com/] é uma das principais ferramentas de DevOps hoje no mercado de TI, isso devido a toda gama de serviços oferecida, indo desde de pipeline de CI/CD até recursos avançados de segurança.
+
+#### Main concepts
+
+#### How it helps
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
