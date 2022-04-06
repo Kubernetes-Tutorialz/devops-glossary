@@ -88,6 +88,15 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 - [ ] *Merge Requests*: são sugestões de melhorias que você cria para um determinado projeto/código.
 - [ ] *Projects*: é a forma de você organizar seu projeto com issues, merge requests, pipelines de CI/CD.
 
+#### Alternatives
+- [ ] [GitHub](https://github.com/)
+- [ ] [Circle CI](https://circleci.com/)
+- [ ] [Jenkins](https://www.jenkins.io/)
+- [ ] [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/#overview)
+- [ ] [AWS CodePipeline](https://aws.amazon.com/pt/codepipeline/)
+- [ ] [Drone](https://www.drone.io/)
+- [ ] [TraviS CI](https://travis-ci.org/)
+
 #### How it helps
 
 ## Contributing
