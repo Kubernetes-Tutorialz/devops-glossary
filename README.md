@@ -49,7 +49,7 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 - [ ] *tfstate*: arquivo usado pelo Terraform para gerenciamento do estado da infraestrutura.
 - [ ] *modules*: é o bloco usado para tratar os módulos (organização, menos complexibilidade e menos repetição de código).
 
-#### Alternatices
+#### Alternatives
 - [ ] [Pulumi](https://www.pulumi.com/)
 - [ ] [AWS: CloudFormation](https://aws.amazon.com/pt/cloudformation/)
 - [ ] [Azure: Resource Manager](https://azure.microsoft.com/pt-br/features/resource-manager/)
