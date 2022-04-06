@@ -54,7 +54,7 @@ Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e
 #### Main concepts
 - [ ] *IaC*: é a sigla em inglês que define *Infrastructure as Code*, desenvolver sua infraestrutura usando código.
 - [ ] *Pipeline*: podemos dizer que é uma esteira de DevOps, que envolve o desenvolvimento até deploy da aplicação.
-- [ ] *DevSecOps*: focado na segurançaem em uma equipe de DevOps, usamos esse termo que está voltado à segurança.
+- [ ] *DevSecOps*: derivado do DevOps, a metodologia de DevSecOps é focada em segurança.
 - [ ] *GitOps*: abordagem focada em usar o Git para gerenciamento de infraestrutura e aplicação.
 - [ ] *DevOps Engineer*: cargo criado pelo LinkedIn para o profissional que atua diretamente com tecnologias DevOps.
 - [ ] *Dev*: desenvolvimento.
