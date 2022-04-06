@@ -52,11 +52,11 @@ O Terraform ajuda você a manter a infraestrutura de rede de forma segura e efic
 Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e/ou cargo... mimimi! Esquece isso, DevOps é cultura e ainda mais, vai além da implementação de um conjunto de tecnologias e exige uma mudança completa na cultura e nos processos. Sempre digo que os pilares do DevOps parte da colaboração, comunicação (assíncrona) e automação. Voltado agora para o mercado de trabalho, DevOps está associado à todo o processo, desde o desenvolvimento de aplicativos/infraestrutura até a operação/deploy em produção, daí o termo DevOps.
 
 #### Main concepts
-- [ ] *IaC*: é a sigla em inglês que define *Infrastructure as Code*. Significa usar a abordagem de *IaC* para desenvolver sua infraestrutura.
-- [ ] *Pipeline*: é o que dizem por esteira de DevOps, ou seja, todo o processo que envolve o desenvolvimento até deploy da aplicação.
+- [ ] *IaC*: é a sigla em inglês que define *Infrastructure as Code*, desenvolver sua infraestrutura usando código.
+- [ ] *Pipeline*: podemos dizer que é uma esteira de DevOps, que envolve o desenvolvimento até deploy da aplicação.
 - [ ] *DevSecOps*: focado na segurançaem em uma equipe de DevOps, usamos esse termo que está voltado à segurança.
 - [ ] *GitOps*: abordagem focada em usar o Git para gerenciamento de infraestrutura e aplicação.
-- [ ] *DevOps Engineer*: cargo criado pelo LinkedIn para o profissional que atua diretamente com tecnologias DevOps e sua cultura.
+- [ ] *DevOps Engineer*: cargo criado pelo LinkedIn para o profissional que atua diretamente com tecnologias DevOps.
 - [ ] *Dev*: desenvolvimento.
 - [ ] *Ops*: operações.
 
