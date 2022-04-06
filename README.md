@@ -51,9 +51,9 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 
 #### Alternatices
 - [ ] [Pulumi](https://www.pulumi.com/)
-- [ ] [CloudFormation](https://aws.amazon.com/pt/cloudformation/)
-- [ ] [Azure Resource Manager](https://azure.microsoft.com/pt-br/features/resource-manager/)
-- [ ] [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/docs)
+- [ ] [AWS: CloudFormation](https://aws.amazon.com/pt/cloudformation/)
+- [ ] [Azure: Resource Manager](https://azure.microsoft.com/pt-br/features/resource-manager/)
+- [ ] [GCP: Deployment Manager](https://cloud.google.com/deployment-manager/docs)
 - [ ] [Ansible](https://github.com/ansible/ansible)
 - [ ] [Crossplane](https://crossplane.io/)
 
