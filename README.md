@@ -9,9 +9,10 @@ Use esse glossário para você entender sobre as [ferramentas](https://4linux.co
 ## Table of Contents
 1. [Ansible](#Ansible)
 2. [Terraform](#Terraform)
-3. [GitLab](#GitLab)
-4. [Kubernetes](#Kubernetes)
-5. [DevOps](#DevOps)
+3. [DevOps](#DevOps)
+4. [GitLab](#GitLab)
+5. [Kubernetes](#Kubernetes)
+6. [Linux](#Linux)
 
 
 ## Ansible
