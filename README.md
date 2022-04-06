@@ -66,7 +66,7 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 ## GitLab
 
 #### What is it
-(GitLab)[https://about.gitlab.com/] é uma das principais ferramentas de DevOps hoje no mercado de TI, isso devido a toda gama de serviços oferecida, indo desde de pipeline de CI/CD até recursos avançados de segurança.
+[GitLab](https://about.gitlab.com/) é uma das principais ferramentas de DevOps hoje no mercado de TI, isso devido a toda gama de serviços oferecida, indo desde de pipeline de CI/CD até recursos avançados de segurança.
 
 #### Main concepts
 
