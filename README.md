@@ -33,6 +33,7 @@ Use esse glossário para você entender sobre as [ferramentas](https://4linux.co
 - [ ] [Puppet](https://puppet.com/)
 - [ ] [CF-Engine](https://cfengine.com/)
 - [ ] [Saltstack](https://saltproject.io/)
+- [ ] [Bash (Shell)](https://www.gnu.org/software/bash/manual/bash.html#Lists)
 
 #### How it helps
 Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da sua infraestrutura de forma simples e consistente. O gerenciamento de configuração é o processo usado para manter sistemas computacionais, servidores e softwares em um estado desejado, consistentemente. É uma forma de se certificar de que o sistema funciona como o esperado enquanto as mudanças são feitas. Tradicionalmente, isso é feito de forma manual ou por meio de scripts personalizados criados por administradores de sistemas. Quando o Ansible é usado como uma ferramenta de gerenciamento de configuração, ele ajuda a armazenar e auxiliar na manutenção do estado atual dos sistemas. 
@@ -51,9 +52,9 @@ Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da
 
 #### Alternatives
 - [ ] [Pulumi](https://www.pulumi.com/)
-- [ ] [AWS: CloudFormation](https://aws.amazon.com/pt/cloudformation/)
-- [ ] [Azure: Resource Manager](https://azure.microsoft.com/pt-br/features/resource-manager/)
-- [ ] [GCP: Deployment Manager](https://cloud.google.com/deployment-manager/docs)
+- [ ] [AWS CloudFormation](https://aws.amazon.com/pt/cloudformation/)
+- [ ] [Azure Resource Manager](https://azure.microsoft.com/pt-br/features/resource-manager/)
+- [ ] [GCP Deployment Manager](https://cloud.google.com/deployment-manager/docs)
 - [ ] [Ansible](https://github.com/ansible/ansible)
 - [ ] [Crossplane](https://crossplane.io/)
 
@@ -95,7 +96,6 @@ Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOp
 - [ ] [Circle CI](https://circleci.com/)
 - [ ] [Jenkins](https://www.jenkins.io/)
 - [ ] [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/#overview)
-- [ ] [AWS CodePipeline](https://aws.amazon.com/pt/codepipeline/)
 - [ ] [Drone](https://www.drone.io/)
 - [ ] [Travis CI](https://travis-ci.org/)
 
@@ -109,9 +109,9 @@ Kubernetes é um orquestrador de containers, ele que faz o gerenciamento de PODs
 
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
-- [ ] [AWS: EKS](https://aws.amazon.com/pt/eks/)
-- [ ] [GCP: GKE](https://cloud.google.com/kubernetes-engine?hl=pt-br)
-- [ ] [Azure: AKS](https://azure.microsoft.com/pt-br/services/kubernetes-service/)
+- [ ] [AWS EKS](https://aws.amazon.com/pt/eks/)
+- [ ] [GCP GKE](https://cloud.google.com/kubernetes-engine?hl=pt-br)
+- [ ] [Azure AKS](https://azure.microsoft.com/pt-br/services/kubernetes-service/)
 - [ ] [Nomad](https://www.nomadproject.io/)
 - [ ] [Rancher](https://rancher.com/)
 
