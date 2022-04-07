@@ -108,8 +108,9 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 [Kubernetes](https://kubernetes.io/pt-br/) é um orquestrador de containers, ele que faz o gerenciamento de PODs, containers dentro do cluster. Podemos dizer que é hoje de longe uma das principais ferramentas dentro do contexto de DevOps, IaC, GitOps pois podemos conectar e integrar o Kubernetes com muitas APIs e ferramentas [Cloud Native](https://www.cncf.io/). 
 
 ### Main concepts
-- [ ] *POD*: menor unidade do Kubernetes
-- [ ] 
+- [ ] *POD*: menor unidade do Kubernetes onde estão armazenados os containers.
+- [ ] *etcd*: O *etcd* é um datastore chave-valor distribuído que o k8s utiliza para armazenar as especificações.
+- [ ] *Container Runtime*: é o ambiente de execução de contêineres necessário para o funcionamento do k8s. 
 
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
