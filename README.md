@@ -107,6 +107,10 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 #### What iS it
 [Kubernetes](https://kubernetes.io/pt-br/) é um orquestrador de containers, ele que faz o gerenciamento de PODs, containers dentro do cluster. Podemos dizer que é hoje de longe uma das principais ferramentas dentro do contexto de DevOps, IaC, GitOps pois podemos conectar e integrar o Kubernetes com muitas APIs e ferramentas [Cloud Native](https://www.cncf.io/). 
 
+### Main concepts
+- [ ] *POD*: menor unidade do Kubernetes
+- [ ] 
+
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
 - [ ] [AWS EKS](https://aws.amazon.com/pt/eks/)
