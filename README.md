@@ -111,6 +111,8 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 - [ ] *POD*: menor unidade do Kubernetes onde estão armazenados os containers.
 - [ ] *etcd*: O *etcd* é um datastore chave-valor distribuído que o k8s utiliza para armazenar as especificações.
 - [ ] *Container Runtime*: é o ambiente de execução de contêineres necessário para o funcionamento do k8s. 
+- [ ] *kubectl*:
+- [ ] *kubelet*:
 
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
