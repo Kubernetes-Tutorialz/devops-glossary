@@ -107,7 +107,7 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 #### What iS it
 [Kubernetes](https://kubernetes.io/pt-br/) é um orquestrador de containers, ele que faz o gerenciamento de PODs, containers dentro do cluster. Podemos dizer que é hoje de longe uma das principais ferramentas dentro do contexto de DevOps, IaC, GitOps pois podemos conectar e integrar o Kubernetes com muitas APIs e ferramentas [Cloud Native](https://www.cncf.io/). 
 
-### Main concepts
+#### Main concepts
 - [ ] *POD*: menor unidade do Kubernetes onde estão armazenados os containers.
 - [ ] *etcd*: O *etcd* é um datastore chave-valor distribuído que o k8s utiliza para armazenar as especificações.
 - [ ] *Container Runtime*: é o ambiente de execução de contêineres necessário para o funcionamento do k8s. 
@@ -125,6 +125,18 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 
 #### How it helps
 O Kubernetes ajuda na automação de maneira semelhante à infraestrutura tradicional como ferramentas de código, mas tem a vantagem de trabalhar com contêineres que são mais resistentes a desvios de configuração do que máquinas virtuais ou físicas. O Kubernetes usa arquivos no formato `".YML"`, ele também funciona de forma declarativa, e você pode usá-lo em muitos cenários para implantação de aplicativos e infraestruturas.
+
+## Linux
+
+#### What iS it
+Linux é um Sistema Operacional, na comunidade open-source você pode encontrar outros tipos de defnições do Linux. mas no geral classificamos como sendo um S.O que possibilita a execução de programas em um computador e outros dispositivos. Voltado para o mercado, hoje o Linux é de longe um dos mais utilizados dentro da comunidade DevOps, isso porque muitas ferramentas de DevOps são baseadas no Linux, como Ansible, Docker entre outras. O Linux pode ser livremente modificado e distribuído.
+
+#### Main concepts
+- [ ] *kernel*
+- [ ] *Bash*
+- [ ] *open-source*
+- [ ] *distros*
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
