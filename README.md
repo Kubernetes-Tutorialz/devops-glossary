@@ -113,6 +113,7 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 - [ ] *Container Runtime*: é o ambiente de execução de contêineres necessário para o funcionamento do k8s. 
 - [ ] *kubectl*:
 - [ ] *kubelet*:
+- [ ] *kubeadm*:
 
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
