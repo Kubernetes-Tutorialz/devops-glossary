@@ -105,6 +105,7 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 ## Kubernetes
 
 #### What iS it
+Kubernetes é um orquestrador de containers, ele que faz o gerenciamento de PODs, containers dentro do cluster. 
 
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
@@ -115,6 +116,7 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 - [ ] [Rancher](https://rancher.com/)
 
 #### How it helps
+É a plataforma ideal para hospedar aplicações nativas em nuvem que exigem escalabilidade rápida,
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
