@@ -132,13 +132,14 @@ O Kubernetes ajuda na automação de maneira semelhante à infraestrutura tradic
 Linux é um Sistema Operacional, na comunidade open-source você pode encontrar outros tipos de defnições do Linux. mas no geral classificamos como sendo um S.O que possibilita a execução de programas em um computador e outros dispositivos. Voltado para o mercado, hoje o Linux é de longe um dos mais utilizados dentro da comunidade DevOps, isso porque muitas ferramentas de DevOps são baseadas no Linux, como Ansible, Docker entre outras. O Linux pode ser livremente modificado e distribuído.
 
 #### Main concepts
-- [ ] *kernel*
-- [ ] *Bash*
-- [ ] *open-source*
-- [ ] *distros*
+- [ ] *kernel*:
+- [ ] *Bash*:
+- [ ] *open-source*:
+- [ ] *distros*:
+- [ ] *Shell Scripts*: 
 
 #### How it helps
-O Linux pode ajudar de n formas o gereciamento de aplicativos. Existem muitas vantagens que o sistema Linux proporciona aos seus usuários e no sistema é possível fazer uma gama enorme de customizações e personalizações em arquivos do sistema. Gosto de sempre frisar que a CLI *Command Line Interface* do Linux é ideal para começar a aprender os comandos e entender como o sistema funciona. Pelo fato de ser um sistema aberto e ter uma comunidade crescente de desenvolvedores na comunidade, o código está sendo aprimorado e existem N cursos, palestras, eventos de Linux hoje disponíveis no mercado.
+O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muitas vantagens que o sistema Linux proporciona aos seus usuários e com o Linux é possível fazer uma gama enorme de customizações e personalizações em arquivos do sistema. Gosto de sempre frisar que a CLI *Command Line Interface* do Linux é ideal para começar a aprender os comandos e entender como o sistema funciona. Pelo fato de ser um sistema aberto e ter uma comunidade crescente de desenvolvedores na comunidade, o código está sendo aprimorado e existem *N* cursos, palestras, eventos de Linux hoje disponíveis no mercado.
 
 
 ## AWS
