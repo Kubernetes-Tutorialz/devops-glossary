@@ -137,6 +137,18 @@ Linux é um Sistema Operacional, na comunidade open-source você pode encontrar 
 - [ ] *open-source*
 - [ ] *distros*
 
+#### How it helps
+O Linux pode ajudar de n formas o gereciamento de aplicativos. Existem muitas vantagens que o sistema Linux proporciona aos seus usuários e no sistema é possível fazer uma gama enorme de customizações e personalizações em arquivos do sistema. Gosto de sempre frisar que a CLI *Command Line Interface* do Linux é ideal para começar a aprender os comandos e entender como o sistema funciona. Pelo fato de ser um sistema aberto e ter uma comunidade crescente de desenvolvedores na comunidade, o código está sendo aprimorado e existem N cursos, palestras, eventos de Linux hoje disponíveis no mercado.
+
+
+## AWS
+
+#### What iS it
+
+#### Main concepts
+
+#### How it helps
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
