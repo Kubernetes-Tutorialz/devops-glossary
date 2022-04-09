@@ -79,11 +79,12 @@ Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e
 - [ ] *DevSecOps*: derivado do DevOps, a metodologia de DevSecOps é focada em segurança.
 - [ ] *GitOps*: abordagem focada em usar o Git para gerenciamento de infraestrutura e aplicação.
 - [ ] *DevOps Engineer*: cargo criado pelo LinkedIn para o profissional que atua diretamente com tecnologias DevOps.
+- [ ] *Deploy*: significa você implantar o aplicativo/produto/infraestrutura, pôr em produção, pôr no ar.
 - [ ] *Dev*: desenvolvimento.
 - [ ] *Ops*: operações.
 
 #### How it helps
-Se aplicável dentro do seu ambiente/empresa a utulização de ferramentas DevOps, você terá muitas vantagens e ganhos na entrega do seu produto/software. O DevOps ajuda na qualidade do código, diminuição de erros humanos, deploys mais rápidos e consistentes com a utlização de boas práticas de CI/CD. Sem contar nas muitas abordagens que estão envolvidas dentro do ciclo de DevOps, podemos citar *IaC*, *GitOps*, *DevSecOps*, entre outras.
+Se aplicável dentro do seu ambiente/empresa a utilização de ferramentas DevOps, você terá muitas vantagens e ganhos na entrega do seu produto/software. O DevOps ajuda na qualidade do código, diminuição de erros humanos, deploys mais rápidos e consistentes com a utlização de boas práticas de CI/CD. Sem contar nas muitas abordagens que estão envolvidas dentro do ciclo de DevOps, podemos citar *IaC*, *GitOps*, *DevSecOps*, entre outras. Falando da cultura, você terá ganhos voltados em automação, colaboração e comunicação totalmente direta, consistente e objetiva, pois, DevOps foca nessas melhorias e nas pessoas, para que a entrega do software/produto ocorra sem grandes interrupções e bloqueios.
 
 ## GitLab
 
