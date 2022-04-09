@@ -3,7 +3,7 @@ O objetivo principal desse repositório, é ajudar à todos os profissinais que 
 
 
 ## Benefits
-Existem muitos benefícios em torno desse glossário de DevOps para o seu desenvolvimento na área, a minha ideia inicial era ter esse glossário como se fosse um guia rápido das ferramentas e conceitos de DevOps, sem ficar procurando na web, Telegram, Slack, Discord e outros. Vamos imaginar que você esteja estudando sobre Terraform, buscando entender algumas questões sobre a ferramenta, como, o que é Terraform, quais são seus concorrentes no mercado e o que ele busca ajudar. Com esse glossário você obtém a resposta para essas questões de forma rápida, assertiva e ainda pode contribuir com o projeto enviando seu *PR*.
+A minha ideia inicial é ter esse glossário como um guia rápido das ferramentas e conceitos de DevOps. Vamos imaginar que você esteja estudando sobre Terraform, buscando entender algumas questões sobre a ferramenta, como, o que é Terraform, quais são seus concorrentes no mercado e o que ele busca ajudar. Com esse glossário você obtém a resposta para essas questões de forma rápida, assertiva e ainda pode contribuir com o projeto enviando seu *PR*.
 
 
 ## Applicability
