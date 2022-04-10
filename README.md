@@ -164,11 +164,11 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 
 ## GitHub
 
-#### What iS it
+#### What is it
 [GitHub](https://github.com/) é uma plataforma completa de gerenciamento de repositórios [Git](https://git-scm.com/) para colaboração e controle de versão. O GitHub permite que você (e outras pessoas) trabalhem juntos em projetos de TI. Voltado para o mercado DevOps, o GitHub é disparado uma das ferramentas mais utilizadas por profissionais da área, comunidades, projetos open-source e abriga uma infinidade de projetos de divesos tamanhos e empresas ao redor do mundo. O GitHub foi comprado pela Microsoft e tem recebido muitas melhorias, entre elas *Actions*, *Copilot*, *Pages* e outras features.
 
 #### Main concepts
-- [ ] **Branch**: é usada para trabalhar com diferentes versões de um repositório ao mesmo tempo.
+- [ ] *Branch*: é usada para trabalhar com diferentes versões de um repositório ao mesmo tempo.
 - [ ] *Pull request*:  é uma sugestão de melhoria, propondo que suas alterações sejam mescladas com a branch main.
 - [ ] *Issues*: é uma ferramenta de rastreamento integrada ao repositório do GitHub para correção de problemas.
 - [ ] *GitHub Actions*: conecta todas as ferramentas para automatizar as etapas do fluxo de CI/CD.
