@@ -44,7 +44,7 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 - [ ] [Puppet](https://puppet.com/)
 - [ ] [CF-Engine](https://cfengine.com/)
 - [ ] [Saltstack](https://saltproject.io/)
-- [ ] [Bash (Shell)](https://www.gnu.org/software/bash/manual/bash.html#Lists)
+- [ ] [Bash (Shell)](https://www.youtube.com/watch?v=EOLPUc6oo-w&list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs&ab_channel=B%C3%B3sonTreinamentos)
 
 #### How it helps
 Basicamente o *Ansible* ajuda a manter todo o gerenciamento de configuração da sua infraestrutura de forma simples e consistente. O gerenciamento de configuração é o processo usado para manter sistemas computacionais, servidores e softwares em um estado desejado, consistentemente. É uma forma de se certificar de que o sistema funciona como o esperado enquanto as mudanças são feitas. Tradicionalmente, isso é feito de forma manual ou por meio de scripts personalizados criados por administradores de sistemas. Quando o Ansible é usado como uma ferramenta de gerenciamento de configuração, ele ajuda a armazenar e auxiliar na manutenção do estado atual dos sistemas. 
