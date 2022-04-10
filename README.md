@@ -170,13 +170,13 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 #### Main concepts
 - [ ] *Branch* - é usada para trabalhar com diferentes versões de um repositório ao mesmo tempo.
 - [ ] *Pull request* -  é uma sugestão de melhoria, propondo que suas alterações sejam mescladas com a branch main.
-- [ ] *Issues*: é uma ferramenta de rastreamento integrada ao repositório do GitHub para correção de problemas.
-- [ ] *GitHub Actions*: conecta todas as ferramentas para automatizar as etapas do fluxo de CI/CD.
-- [ ] *Commits*: no GitHub as alterações no código são chamadas de commits.
-- [ ] *Repository*: pode ser usado para armazenar um projeto de desenvolvimento contendo arquivos (HTML, CSS, Java).
-- [ ] *Git*: é um sistema de controle de versão distribuído gratuito e de código aberto para projetos de TI.
-- [ ] *Gists*: uma feature fornecida pelo  GitHub para que você possa compartilhar trechos curtos de código.
-- [ ] *Readme.md*: arquivo usado para documentação do projeto/repositório no GitHub.
+- [ ] *Issues* - é uma ferramenta de rastreamento integrada ao repositório do GitHub para correção de problemas.
+- [ ] *GitHub Actions* - conecta todas as ferramentas para automatizar as etapas do fluxo de CI/CD.
+- [ ] *Commits* - no GitHub as alterações no código são chamadas de commits.
+- [ ] *Repository* - pode ser usado para armazenar um projeto de desenvolvimento contendo arquivos (HTML, CSS, Java).
+- [ ] *Git* - é um sistema de controle de versão distribuído gratuito e de código aberto para projetos de TI.
+- [ ] *Gists* - uma feature fornecida pelo  GitHub para que você possa compartilhar trechos curtos de código.
+- [ ] *Readme.md* - arquivo usado para documentação do projeto/repositório no GitHub.
 
 #### Alternatives
 - [ ] [GitLab](https://about.gitlab.com/)
