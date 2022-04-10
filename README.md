@@ -84,6 +84,7 @@ Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e
 - [ ] *GitOps*: abordagem focada em usar o Git para gerenciamento de infraestrutura e aplicação.
 - [ ] *DevOps Engineer*: cargo criado pelo LinkedIn para o profissional que atua diretamente com tecnologias DevOps.
 - [ ] *Deploy*: significa você implantar o aplicativo/produto/infraestrutura, pôr em produção, pôr no ar.
+- [ ] *Roadmap*: é um roteiro de estudos que envolvem ferramentas, conceitos, tecnologias sobre DevOps.
 - [ ] *Dev*: desenvolvimento.
 - [ ] *Ops*: operações.
 
@@ -173,6 +174,11 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 - [ ] *Commits*
 - [ ] *Repository*:
 - [ ] *Git*:
+- [ ] *Gists*:
+- [ ] *Readme.md*:
+
+#### Alternatives
+ [ ] [GitLab](https://about.gitlab.com/)
 
 #### How it helps
 
