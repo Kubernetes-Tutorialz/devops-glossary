@@ -178,7 +178,12 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 - [ ] *Readme.md*:
 
 #### Alternatives
- [ ] [GitLab](https://about.gitlab.com/)
+- [ ] [GitLab](https://about.gitlab.com/)
+- [ ] [Bitbucket](https://bitbucket.org/)
+- [ ] [AWS Code Commit](https://aws.amazon.com/pt/codecommit/)
+- [ ] [Cloud Source Repositories](https://cloud.google.com/source-repositories/docs)
+- [ ] [Gogs](https://gogs.io/)
+- [ ] [RhodeCode](https://rhodecode.com/)
 
 #### How it helps
 
