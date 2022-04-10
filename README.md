@@ -75,7 +75,7 @@ O Terraform ajuda você a manter a infraestrutura de rede de forma segura e efic
 ## DevOps
 
 #### What is it
-Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e/ou cargo... mimimi! Esquece isso, DevOps é cultura e ainda mais, vai além da implementação de um conjunto de tecnologias e exige uma mudança completa na cultura e nos processos. Sempre digo que os pilares do DevOps parte da colaboração, comunicação (assíncrona) e automação. Voltado agora para o mercado de trabalho, DevOps está associado à todo o processo, desde o desenvolvimento de aplicativos/infraestrutura até a operação/deploy em produção, daí o termo DevOps.
+Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e/ou cargo... mimimi! Esquece isso, DevOps é cultura e ainda mais, vai além da implementação de um conjunto de tecnologias e exige uma mudança completa na cultura e nos processos. Sempre digo que os pilares do DevOps parte da colaboração, comunicação (assíncrona) e automação. Voltado agora para a tecnologia, DevOps está associado à todo o processo, desde o desenvolvimento de aplicativos/infraestrutura até a operação/deploy em produção, daí o termo DevOps.
 
 #### Main concepts
 - [ ] *IaC*: é a sigla em inglês que define *Infrastructure as Code*, desenvolver sua infraestrutura usando código.
@@ -139,6 +139,7 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 #### How it helps
 O Kubernetes ajuda na automação de maneira semelhante à infraestrutura tradicional como ferramentas de código, mas tem a vantagem de trabalhar com contêineres que são mais resistentes a desvios de configuração do que máquinas virtuais ou físicas. O Kubernetes usa arquivos no formato `".YML"`, ele também funciona de forma declarativa, e você pode usá-lo em muitos cenários para implantação de aplicativos e infraestruturas.
 
+
 ## Linux
 
 #### What iS it
@@ -186,7 +187,7 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 - [ ] [RhodeCode](https://rhodecode.com/)
 
 #### How it helps
-
+O GitHub ajuda no gerenciamento de projetos focado em *Git* servindo como apoio no controle de versão de projetos, procedimentos, manuais, tecnloogias em geral.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
