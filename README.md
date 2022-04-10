@@ -190,7 +190,15 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 O GitHub ajuda no gerenciamento de projetos focado em colaboração e nas melhores práticas de desenvolvimento de software/produto, pois, possui um portfólio gigantesco de features e componentes como as *Actions* que lhes permite conectar e entregar software de forma mais rápida e assertiva, focando em todas as etapas do ciclo de desenvolvimento até o ponto de deploy do aplicativo. O GitHub também ajuda a organizar melhor seus projetos/documentações, é muito usado pela comunidade e com baixa curva de aprendizado, visto que, sua documentação é direta ao ponto, bem exemplificada e possui muito conteúdo pela web.
 
 
- servindo como apoio no controle de versão de projetos, procedimentos, manuais, tecnloogias em geral.
+## VIM
+
+#### What is it
+O [VIM](https://www.vim.org/) é o editor nativo do Linux em muitas distribuições existentes hoje no mercado, como Ubuntu, Debian, CentOS, Fedora. É a melhoria da antigo *Vi* usado por muito tempo em sistemas Linux, com novas funcionalidades implementadas o *VIM* se tornou popular e muito usado em todo o mundo, é bem simples, possui modos de edição e modos de comandos que facilita o trabalho do Administrador de Sistemas.
+
+#### Main concepts
+- [ ] *:w*: comando usado para salvar o conteúdo sem sair do editor.
+- [ ] *:wq*: comando usado para sakvar o conteúdo e sair do editor.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
