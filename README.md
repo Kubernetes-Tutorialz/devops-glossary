@@ -196,8 +196,8 @@ O GitHub ajuda no gerenciamento de projetos focado em colaboração e nas melhor
 O [VIM](https://www.vim.org/) é o editor nativo do Linux em muitas distribuições existentes hoje no mercado, como Ubuntu, Debian, CentOS, Fedora. É a melhoria da antigo *Vi* usado por muito tempo em sistemas Linux, com novas funcionalidades implementadas o *VIM* se tornou popular e muito usado em todo o mundo, é bem simples, possui modos de edição e modos de comandos que facilita o trabalho do Administrador de Sistemas.
 
 #### Main concepts
-- [ ] *:w*: comando usado para salvar o conteúdo sem sair do editor.
-- [ ] *:wq*: comando usado para sakvar o conteúdo e sair do editor.
+- [ ] `:w`: comando usado para salvar o conteúdo sem sair do editor.
+- [ ] `:wq`: comando usado para sakvar o conteúdo e sair do editor.
 
 
 ## Contributing
