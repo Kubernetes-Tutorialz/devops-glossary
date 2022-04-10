@@ -187,7 +187,10 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 - [ ] [RhodeCode](https://rhodecode.com/)
 
 #### How it helps
-O GitHub ajuda no gerenciamento de projetos focado em *Git* servindo como apoio no controle de versão de projetos, procedimentos, manuais, tecnloogias em geral.
+O GitHub ajuda no gerenciamento de projetos focado em colaboração e nas melhores de desenvolvimento de software/produto, pois possui um portfólio gigantesco de features e componentes como as *Actions* que lhe permite conectar e entregar software de forma mais rápida e assertiva focando em todas as etapas do ciclo de desenvolvimento até o ponto de deploy do aplicativo. o GitHub também ajuda muito a organizar melhor seus projetos/documentações, é muito usado pela comunidade e com baixa curva de aprendizado, visto que, sua documentação é direta ao ponto, bem exemplificada e possui muito conteúdo pela web.
+
+
+ servindo como apoio no controle de versão de projetos, procedimentos, manuais, tecnloogias em geral.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
