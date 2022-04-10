@@ -23,7 +23,7 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 7. [GitHub](#GitHub)
 8. [VIM](#VIM)
 9. [Cloud Native](#ClaoudNative)
-10. [Site Reliability Engineering](#SiteReliabilityEngineering)
+10. [SRE](#SRE)
 
 
 ## Ansible
@@ -150,15 +150,29 @@ Linux é um Sistema Operacional, na comunidade open-source você pode encontrar 
 - [ ] *distros*:
 - [ ] *Shell Scripts*: 
 
+#### Alternatives
+- [ ] [Windows]
+- [ ] [MacOS]
+- [ ] [FreeBSD]
+- [ ] [Solaris]
+
 #### How it helps
 O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muitas vantagens que o sistema Linux proporciona aos seus usuários e com o Linux é possível fazer uma gama enorme de customizações e personalizações em arquivos do sistema. Gosto de sempre frisar que a CLI *Command Line Interface* do Linux é ideal para começar a aprender os comandos e entender como o sistema funciona. Pelo fato de ser um sistema aberto e ter uma comunidade crescente de desenvolvedores na comunidade, o código está sendo aprimorado e existem *N* cursos, palestras, eventos de Linux hoje disponíveis no mercado.
 
 
-## AWS
+## GitHub
 
 #### What iS it
+[GitHub](https://github.com/) é uma plataforma completa de gerenciamento de repositórios [Git](https://git-scm.com/) para colaboração e controle de versão. O GitHub permite que você (e outras pessoas) trabalhem juntos em projetos que envolvem *Git*.
 
 #### Main concepts
+- [ ] *Branch*
+- [ ] *Pull request*
+- [ ] *Issues*
+- [ ] *GitHub Actions*
+- [ ] *Commits*
+- [ ] *Repository*:
+- [ ] *Git*:
 
 #### How it helps
 
