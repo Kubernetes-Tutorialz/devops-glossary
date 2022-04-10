@@ -181,7 +181,7 @@ O Linux pode ajudar de *N* formas você a manter seus aplicativos. Existem muita
 - [ ] [GitLab](https://about.gitlab.com/)
 - [ ] [Bitbucket](https://bitbucket.org/)
 - [ ] [AWS Code Commit](https://aws.amazon.com/pt/codecommit/)
-- [ ] [Cloud Source Repositories](https://cloud.google.com/source-repositories/docs)
+- [ ] [Google Cloud Source Repositories](https://cloud.google.com/source-repositories/docs)
 - [ ] [Gogs](https://gogs.io/)
 - [ ] [RhodeCode](https://rhodecode.com/)
 
