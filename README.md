@@ -22,8 +22,8 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 6. [Linux](#Linux)
 7. [GitHub](#GitHub)
 8. [VIM](#VIM)
-9. [Cloud Native](#Claoud Native)
-10. [Site Reliability Engineering](#Site Reliability Engineering)
+9. [Cloud Native](#ClaoudNative)
+10. [Site Reliability Engineering](#SiteReliabilityEngineering)
 
 
 ## Ansible
