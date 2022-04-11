@@ -220,9 +220,13 @@ O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de f
 ## Cloud Computing
 
 #### What is it
-
+É um modelo que oferece recursos de computação como recursos de CPU, rede e disco sob demanda pela internet. A computação em nuvem oferece aos usuários a capacidade de acessar e usar o poder de computação em um local físico remoto. Para o serviço de Computação em Nuvem, existem grandes provedores de Nuvem no mercado de TI, como, AWS, Azure, IBM Cloud, GCP, Digital Ocean, que oferecem uma extensa gama de serviços e produtos para empresas com foco para muitos serviços do mercado.
 
 #### Main commands
+- [ ] *elasticity*: 
+- [ ] *IaaS*
+- [ ] *SaaS*
+- [ ] *PaaS*
 
 #### How it helps
 
