@@ -245,9 +245,14 @@ O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de f
 #### What is it
 Profissional de TI que introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de desenvolvimento de software/produto, desde a parte de codificação do software até o deploy em produção do aplicativo.
 
-#### What is it
+#### Main concepts
+- [ ] *DevSecOps*: É uma abordagem à cultura DevOps que tem como foco manter a segurança em todos os processos.
+- [ ] *collaboration*: 
+- [ ] *contribution*:
+- [ ] *automation*:
 
-#### Main commands
+##### How it helps
+A cultura DevOps tem como ponto principal a unificação e a automação de processos. Portanto, os engenheiros de DevOps são peças fundamentais na combinação de códigos e na manutenção e no gerenciamento de aplicações. Para a realização de todas essas tarefas, o profissional precisa compreender não somente os ciclos de vida de desenvolvimento, mas também a cultura de DevOps, incluindo filosofia, práticas e ferramentas. 
 
 
 ## Contributing
