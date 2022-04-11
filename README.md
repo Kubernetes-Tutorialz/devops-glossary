@@ -252,7 +252,7 @@ Profissional de TI que introduz processos, ferramentas e metodologias para equil
 - [ ] *automation*:
 
 ##### How it helps
-A cultura DevOps tem como ponto principal a unificação e a automação de processos. Portanto, os engenheiros de DevOps são peças fundamentais na combinação de códigos e na manutenção e no gerenciamento de aplicações. Para a realização de todas essas tarefas, o profissional precisa compreender não somente os ciclos de vida de desenvolvimento, mas também a cultura de DevOps, incluindo filosofia, práticas e ferramentas. 
+A cultura DevOps tem como ponto principal a unificação e a automação de processos. Portanto, DevOps Engineer são muito importantes na combinação de códigos e no gerenciamento de aplicações/infraestrutura. Para a realização de todas essas tarefas, o profissional precisa compreender não somente os ciclos de vida de desenvolvimento de software, mas também a cultura DevOps, incluindo filosofia, práticas e ferramentas. Ser um DevOps Engineer vai além de conhecer produtos ou tecnologias específicas, até porque isso muda com o avanço da tecnologia, você precisa ser um profissional que possui *mindset* de automação, de colaboração e com vontade de ajudar as pessoas no time, sentar do lado do colega, explicar o que for preciso, é uma mudança completa na cultura e nos processos do ambiente de trabalho.
 
 
 ## Contributing
