@@ -22,9 +22,8 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 6. [Linux](#Linux)
 7. [GitHub](#GitHub)
 8. [VIM](#VIM)
-9. [Cloud Native](#ClaoudNative)
-10. [Cloud Computing](#CloudComputing)
-11. [SRE](#SRE)
+9.  [Cloud Computing](#CloudComputing)
+10. [SRE](#SRE)
 
 
 ## Ansible
