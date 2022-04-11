@@ -24,6 +24,7 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 8. [VIM](#VIM)
 9. [Cloud Computing](#Cloud-Computing)
 10. [SRE](#SRE)
+11. [DevOps Engineer](#DevOps-Engineer)
 
 
 ## Ansible
@@ -228,6 +229,25 @@ O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de f
 - [ ] *PaaS*
 
 #### How it helps
+
+
+## SRE
+
+#### What is it
+
+#### What is it
+
+#### Main commands
+
+
+## DevOps Engineer
+
+#### What is it
+Profissional de TI que introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de desenvolvimento de software/produto, desde a parte de codificação do software até o deploy em produção do aplicativo.
+
+#### What is it
+
+#### Main commands
 
 
 ## Contributing
