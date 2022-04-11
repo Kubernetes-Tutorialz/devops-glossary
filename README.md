@@ -23,7 +23,8 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 7. [GitHub](#GitHub)
 8. [VIM](#VIM)
 9. [Cloud Native](#ClaoudNative)
-10. [SRE](#SRE)
+10. [Cloud Computing](#CloudComputing)
+11. [SRE](#SRE)
 
 
 ## Ansible
@@ -215,6 +216,16 @@ O [VIM](https://www.vim.org/) é o editor nativo do Linux em muitas distribuiç�
 
 #### How it helps
 O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de funcionalidades adotadas e seu alto nível de uso pela comunidade, o que fez se tornar padrão em muitas distribuições Linux. Por ser simples, ele ajuda e facilita qualquer edição de arquivo, você pode usar modos de comandos, modos de visualização e desempenhar rapidamente suas tarefas com *VIM*. Outro ponto importante é que ele pode ser usado facilmente como editor de ferramentas DevOps, como o próprio *Ansible*, bastando setar apenas alguns parâmetros e você já tem identação, tabulação e espaçamento configurados.
+
+## Cloud Computing
+
+#### What is it
+
+
+#### Main commands
+
+#### How it helps
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
