@@ -271,10 +271,12 @@ A cultura DevOps tem como ponto principal a unificação e a automação de proc
 A entrega contínua (CD) é um conjunto de práticas em que as alterações de código são implantadas automaticamente em um ambiente de aceitação (ou, no caso de implantação contínua, em produção). O CD inclui procedimentos cruciais para garantir que o software seja testado adequadamente antes da implantação e fornece uma maneira de reverter as alterações, se necessário. A integração contínua (CI) é o primeiro passo para a entrega contínua (ou seja, as alterações precisam ser mescladas de forma limpa antes de serem testadas e implantadas).
 
 #### Main concepts
-- [ ] *version control*: permite que uma equipe de desenvolvedores colabore com eficiência em uma base de código compartilhada.
+- [ ] *Version control*: permite que uma equipe de desenvolvedores colabore com eficiência em uma base de código compartilhada.
 - [ ] *Git*: ferramenta utilizada para gerenciar e versional todo o processo de desenvolvimento de software.
-- [ ] *automation*: é o uso de softwares para criar processos que substitui ou reduz a interação humana com os sistemas de TI. 
-- [ ] 
+- [ ] *Automation*: é o uso de softwares para criar processos que substitui ou reduz a interação humana com os sistemas de TI. 
+- [ ] *DevOps tools*: stack de ferramentas/tecnologias de DevOps que suporta o processo de CI/CD e outras etapas.
+- [ ] *GitLab*: ferramenta completa com foco em pipelines de CI/CD.
+- [ ] *Jenkins*: ferramenta focada em CI/CD que permite que aos devs criarem, testarem e implantarem software.
 
 
 ##### How it helps
