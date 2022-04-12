@@ -264,9 +264,18 @@ Profissional de TI que introduz processos, ferramentas e metodologias para equil
 ##### How it helps
 A cultura DevOps tem como ponto principal a unificação e a automação de processos. Portanto, DevOps Engineers são muito importantes na combinação de códigos e no gerenciamento de aplicações/infraestrutura. Para a realização de todas essas tarefas, o profissional precisa compreender não somente os ciclos de vida de desenvolvimento de software, mas também a cultura DevOps, incluindo filosofia, práticas e ferramentas. Ser um DevOps Engineer vai além de conhecer produtos ou tecnologias específicas, até porque isso muda com o avanço da tecnologia, você precisa ser um profissional que possui *mindset* de automação, de colaboração e com vontade de ajudar as pessoas no time, sentar do lado do colega, explicar o que for preciso, é uma mudança completa na cultura e nos processos do ambiente de trabalho.
 
+
 ## Continuous Delivery
 
 #### What is it
+A entrega contínua (CD) é um conjunto de práticas em que as alterações de código são implantadas automaticamente em um ambiente de aceitação (ou, no caso de implantação contínua, em produção). O CD inclui procedimentos cruciais para garantir que o software seja testado adequadamente antes da implantação e fornece uma maneira de reverter as alterações, se necessário. A integração contínua (CI) é o primeiro passo para a entrega contínua (ou seja, as alterações precisam ser mescladas de forma limpa antes de serem testadas e implantadas).
+
+#### Main concepts
+- [ ] **
+
+
+##### How it helps
+As estratégias de CD criam um caminho totalmente automatizado para a produção que testa e implanta o software usando várias estratégias de implantação. Isso permite que os desenvolvedores implantem código com frequência, dando a eles a tranquilidade de saber que a nova revisão foi testada.
 
 
 
