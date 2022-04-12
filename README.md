@@ -235,7 +235,7 @@ serviços.
 - [ ] *PaaS*: plataforma como serviço, o provedor oferece uma plataforma com foco na implantação e no gerenciamento de aplicativos, sem a necessidade de gerenciar infraestrutura como (SO e hardware).
 
 #### How it helps
-
+Os provedores de nuvem como AWS, Azure, GCP, oferecem às empresas a capacidade de alugar/testar recursos de computação sob demanda e pagar pelo uso. Isso permite muitas vantagens como, as empresas podem experimentar coisas sem perder tempo planejando e gastando dinheiro ou recursos em nova infraestrutura física e podem escalar conforme necessário e sob demanda. 
 
 
 ## SRE
@@ -253,10 +253,10 @@ serviços.
 Profissional de TI que introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de desenvolvimento de software/produto, desde a parte de codificação do software até o deploy em produção do aplicativo.
 
 #### Main concepts
-- [ ] *DevSecOps*: É uma abordagem à cultura DevOps que tem como foco manter a segurança em todos os processos.
-- [ ] *collaboration*: 
-- [ ] *contribution*:
-- [ ] *automation*:
+- [ ] *DevSecOps*: É uma abordagem à cultura DevOps que tem como foco manter a segurança em todos as etapas.
+- [ ] *communication*: é você saber passar uma informação de forma assertiva, direta e objetiva de forma assíncrona.
+- [ ] *contribution*: é você colaborar com os times internos e com a comunidade buscando sempre agregar valor e conhecimento.
+- [ ] *automation*: mindset focado em aplicar melhorias no ambiente, sair do modo manual de fazer as coisas.
 
 ##### How it helps
 A cultura DevOps tem como ponto principal a unificação e a automação de processos. Portanto, DevOps Engineer são muito importantes na combinação de códigos e no gerenciamento de aplicações/infraestrutura. Para a realização de todas essas tarefas, o profissional precisa compreender não somente os ciclos de vida de desenvolvimento de software, mas também a cultura DevOps, incluindo filosofia, práticas e ferramentas. Ser um DevOps Engineer vai além de conhecer produtos ou tecnologias específicas, até porque isso muda com o avanço da tecnologia, você precisa ser um profissional que possui *mindset* de automação, de colaboração e com vontade de ajudar as pessoas no time, sentar do lado do colega, explicar o que for preciso, é uma mudança completa na cultura e nos processos do ambiente de trabalho.
