@@ -225,9 +225,11 @@ O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de f
 
 #### Main commands
 - [ ] *elasticity*: oferece a opção de aumentar ou diminuir a escala de recursos para aderir de acordo com a demanda.
-- [ ] *IaaS*: infraestrutura como serviço.
-- [ ] *SaaS*: software como serviço.
-- [ ] *PaaS*: plataforma como serviço, o provedor oferece uma plataforma completa com foco na implantação e no gerenciamento de aplicativos, sem a necessidade de gerenciar infraestrutura como (SO e hardware).
+- [ ] *IaaS*: infraestrutura como serviço, o IaaS oferece acesso a recursos de rede, computadores (virtuais ou em hardware
+dedicado) e espaço de armazenamento de dados.
+- [ ] *SaaS*: software como serviço, é fornecida o produto/aplicativo completo, executado e gerenciado pelo provedor de
+serviços.
+- [ ] *PaaS*: plataforma como serviço, o provedor oferece uma plataforma com foco na implantação e no gerenciamento de aplicativos, sem a necessidade de gerenciar infraestrutura como (SO e hardware).
 
 #### How it helps
 
