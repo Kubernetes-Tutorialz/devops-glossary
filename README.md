@@ -224,7 +224,7 @@ O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de f
 É um modelo que oferece recursos de computação como recursos de CPU, rede e disco sob demanda pela internet. A computação em nuvem oferece aos usuários a capacidade de acessar e usar o poder de computação em um local físico remoto. Para o serviço de Computação em Nuvem, existem grandes provedores de Nuvem no mercado de TI, como, AWS, Azure, IBM Cloud, GCP, Digital Ocean, que oferecem uma extensa gama de serviços e produtos para empresas com foco para muitos serviços do mercado.
 
 #### Main concepts
-- [ ] Elasticity*: capacidade de dimensionar e reduzir quando necessário.
+- [ ] *Elasticity*: capacidade de dimensionar e reduzir quando necessário.
 - [ ] *Agility*: desenvolver, testar e lançar rapidamente aplicativos de software.
 - [ ] *Scalability*: acomodar cargas maiores tornando o hardware mais forte ou adicionando nós adicionais.
 - [ ] *Flexibility*: alterar os tipos de recursos quando necessário.
@@ -235,6 +235,7 @@ serviços.
 - [ ] *PaaS*: plataforma como serviço, o provedor oferece uma plataforma com foco na implantação e no gerenciamento de aplicativos, sem a necessidade de gerenciar infraestrutura como (SO e hardware).
 
 #### How it helps
+
 
 
 ## SRE
