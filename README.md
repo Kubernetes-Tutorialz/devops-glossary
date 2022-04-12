@@ -25,6 +25,9 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 9. [Cloud Computing](#Cloud-Computing)
 10. [SRE](#SRE)
 11. [DevOps Engineer](#DevOps-Engineer)
+12. [Continuous Delivery](#Continuous-Delivery)
+13. [Continuous Integration](#Continuous-Integration)
+14. [Continuous Deployment](#Continuous-Deployment)
 
 
 ## Ansible
@@ -260,6 +263,13 @@ Profissional de TI que introduz processos, ferramentas e metodologias para equil
 
 ##### How it helps
 A cultura DevOps tem como ponto principal a unificação e a automação de processos. Portanto, DevOps Engineers são muito importantes na combinação de códigos e no gerenciamento de aplicações/infraestrutura. Para a realização de todas essas tarefas, o profissional precisa compreender não somente os ciclos de vida de desenvolvimento de software, mas também a cultura DevOps, incluindo filosofia, práticas e ferramentas. Ser um DevOps Engineer vai além de conhecer produtos ou tecnologias específicas, até porque isso muda com o avanço da tecnologia, você precisa ser um profissional que possui *mindset* de automação, de colaboração e com vontade de ajudar as pessoas no time, sentar do lado do colega, explicar o que for preciso, é uma mudança completa na cultura e nos processos do ambiente de trabalho.
+
+## Continuous Delivery
+
+#### What is it
+
+
+
 
 
 ## Contributing
