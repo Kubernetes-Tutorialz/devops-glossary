@@ -217,16 +217,17 @@ O [VIM](https://www.vim.org/) é o editor nativo do Linux em muitas distribuiç�
 #### How it helps
 O *VIM* se diferencia dos demais editores de texto do Linux, devido à gama de funcionalidades adotadas e seu alto nível de uso pela comunidade, o que fez se tornar padrão em muitas distribuições Linux. Por ser simples, ele ajuda e facilita qualquer edição de arquivo, você pode usar modos de comandos, modos de visualização e desempenhar rapidamente suas tarefas com *VIM*. Outro ponto importante é que ele pode ser usado facilmente como editor de ferramentas DevOps, como o próprio *Ansible*, bastando setar apenas alguns parâmetros e você já tem identação, tabulação e espaçamento configurados.
 
+
 ## Cloud Computing
 
 #### What is it
 É um modelo que oferece recursos de computação como recursos de CPU, rede e disco sob demanda pela internet. A computação em nuvem oferece aos usuários a capacidade de acessar e usar o poder de computação em um local físico remoto. Para o serviço de Computação em Nuvem, existem grandes provedores de Nuvem no mercado de TI, como, AWS, Azure, IBM Cloud, GCP, Digital Ocean, que oferecem uma extensa gama de serviços e produtos para empresas com foco para muitos serviços do mercado.
 
 #### Main commands
-- [ ] *elasticity*: 
-- [ ] *IaaS*
-- [ ] *SaaS*
-- [ ] *PaaS*
+- [ ] *elasticity*: oferece a opção de aumentar ou diminuir a escala de recursos para aderir de acordo com a demanda.
+- [ ] *IaaS*: infraestrutura como serviço.
+- [ ] *SaaS*: software como serviço.
+- [ ] *PaaS*: plataforma como serviço, o provedor oferece uma plataforma completa com foco na implantação e no gerenciamento de aplicativos, sem a necessidade de gerenciar infraestrutura como (SO e hardware).
 
 #### How it helps
 
