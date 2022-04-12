@@ -276,7 +276,7 @@ A entrega contínua (CD) é um conjunto de práticas em que as alterações de c
 - [ ] *Automation*: é o uso de softwares para criar processos que substitui ou reduz a interação humana com os sistemas de TI. 
 - [ ] *DevOps tools*: stack de ferramentas/tecnologias de DevOps que suporta o processo de CI/CD e outras etapas.
 - [ ] *GitLab*: ferramenta completa com foco em pipelines de CI/CD.
-- [ ] *Jenkins*: ferramenta focada em CI/CD que permite que aos devs criarem, testarem e implantarem software.
+- [ ] *Jenkins*: ferramenta focada em CI/CD que permite aos profissionais criarem, testarem e implantarem software.
 
 
 ##### How it helps
