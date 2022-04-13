@@ -293,6 +293,11 @@ A integração contínua, é a prática de integrar as alterações de código c
 - [ ] *Azure Pipelines*: ferramenta de CI que se integra ao conjunto de serviços do Azure.
 - [ ] *artifact*: é um subproduto do desenvolvimento de software que auxili no desenvolvimento.
 - [ ] *continuous*: manter a regularidade de *commits* no projeto para tornar o processo mais simples.
+- [ ] *Git*: usado em muitos projeto para suportar o controle de versão.
+- [ ] *build automation*: a cada nova versão do aplicativo, focar no build com ferramentas e automação.
+- [ ] *daily integration*: fundamental para reduzir os custos do projetos e ajudar nos prazos do projeto.
+- [ ] *Jenkins*: ferramenta que suporta esse processo, usa plugins (+900), adorada pelo mundo DevOps.
+- [ ] *Travis*: ferramenta usada para esse processo também de CI.
 
 #### How it helps
 É uma prática recomendada primária de DevOps, permitindo que os desenvolvedores mesclem com frequência as alterações de código em um repositório central onde builds e testes são executados.
