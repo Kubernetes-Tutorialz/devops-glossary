@@ -278,7 +278,7 @@ A entrega contínua (CD) é um conjunto de práticas em que as alterações de c
 - [ ] *GitLab*: ferramenta completa com foco em pipelines de CI/CD.
 - [ ] *Jenkins*: ferramenta focada em CI/CD que permite aos profissionais criarem, testarem e implantarem software.
 
-##### How it helps
+#### How it helps
 As estratégias de CD criam um caminho totalmente automatizado para a produção que testa e implanta o software usando várias estratégias de implantação. Isso permite que os desenvolvedores implantem código com frequência, dando a eles a tranquilidade de saber que a nova revisão foi testada.
 
 
