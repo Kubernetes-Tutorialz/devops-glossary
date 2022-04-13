@@ -292,6 +292,7 @@ A integração contínua, é a prática de integrar as alterações de código c
 - [ ] *AWS Code Pipeline*: ferramenta de CI da AWS que permite  integração com outros serviços da AWS.
 - [ ] *Azure Pipelines*: ferramenta de CI que se integra ao conjunto de serviços do Azure.
 - [ ] *artifact*: é um subproduto do desenvolvimento de software que auxili no desenvolvimento.
+- [ ] *continuous*: manter a regularidade de *commits* no projeto para tornar o processo mais simples.
 
 #### How it helps
 É uma prática recomendada primária de DevOps, permitindo que os desenvolvedores mesclem com frequência as alterações de código em um repositório central onde builds e testes são executados.
