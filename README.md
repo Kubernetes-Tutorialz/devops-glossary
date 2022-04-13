@@ -294,9 +294,19 @@ A integração contínua, é a prática de integrar as alterações de código c
 - [ ] *artifact*: é um subproduto do desenvolvimento de software que auxili no desenvolvimento.
 
 #### How it helps
-É uma prática recomendada primária de DevOps, permitindo que os desenvolvedores mesclem com frequência as alterações de código em um repositório central onde builds e testes são executados
+É uma prática recomendada primária de DevOps, permitindo que os desenvolvedores mesclem com frequência as alterações de código em um repositório central onde builds e testes são executados.
 
-##### How it helps
+## Continuous Deployment
+
+#### What is it
+A implantação contínua vai um passo além da entrega contínua, implantando o software finalizado diretamente na produção. A implantação contínua (CD) anda de mãos dadas com a integração contínua (CI) e é frequentemente chamada de CI/CD. O processo de CI testa se as alterações em um determinado aplicativo são válidas e o processo de CD implanta automaticamente as alterações de código em ambientes de produção/desenvolvimento.
+
+#### Main concepts
+- [ ] *artifact*:
+
+
+#### How it helps
+Ao automatizar o ciclo de lançamento e forçar as organizações a lançar para produção com mais frequência, a CD faz o que a CI fez pelas equipes de desenvolvimento para as equipes de operações. Especificamente, ele força as equipes de operações a automatizar as partes dolorosas e propensas a erros das implantações de produção, reduzindo o risco geral. Também torna as organizações melhores em aceitar e se adaptar às mudanças de produção, o que leva a uma maior estabilidade.
 
 
 ## Contributing
