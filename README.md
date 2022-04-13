@@ -91,6 +91,8 @@ Existe uma discussão muito forte no mercado em torno de DevOps, se é cultura e
 - [ ] *Roadmap*: é um roteiro de estudos que envolvem ferramentas, conceitos, tecnologias sobre DevOps.
 - [ ] *Dev*: desenvolvimento.
 - [ ] *Ops*: operações.
+- [ ] *harmony between Dev and Ops Teams*: através do DevOps é possível que haja essa união mais amigável.
+- [ ] *Logging and monitoring*: monitoramento através de logs e métricas no processo de que envolve DevOps.
 
 #### How it helps
 Se aplicável dentro do seu ambiente/empresa a utilização de ferramentas DevOps, você terá muitas vantagens e ganhos na entrega do seu produto/software. O DevOps ajuda na qualidade do código, diminuição de erros humanos, deploys mais rápidos e consistentes com a utlização de boas práticas de CI/CD. Sem contar nas muitas abordagens que estão envolvidas dentro do ciclo de DevOps, podemos citar *IaC*, *GitOps*, *DevSecOps*, entre outras. Falando da cultura, você terá ganhos voltados em automação, colaboração e comunicação totalmente direta, consistente e objetiva, pois, DevOps foca nessas melhorias e nas pessoas, para que a entrega do software/produto ocorra sem grandes interrupções e bloqueios.
