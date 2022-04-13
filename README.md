@@ -289,14 +289,12 @@ A integração contínua, é a prática de integrar as alterações de código c
 
 #### Main concepts
 - [ ] *CircleCI*: ferramenta usada no processo de CI para suportar a etapa de continuous Integration.
-- [ ] *AWS Code Pipeline*: ferramenta de CI da AWS e você pode integrar com outras ferramentas de desenvolvimento da AWS.
-- [ ] *Azure Pipelines*: ferramenta de CI que se integra por completo ao pacote de ferramentas de hospedagem do Azure.
-- [ ] *artifact*: é um subproduto do desenvolvimento de software, qualquer componente que seja necessario para o software.
+- [ ] *AWS Code Pipeline*: ferramenta de CI da AWS que permite  integração com outros serviços da AWS.
+- [ ] *Azure Pipelines*: ferramenta de CI que se integra ao conjunto de serviços do Azure.
+- [ ] *artifact*: é um subproduto do desenvolvimento de software que auxili no desenvolvimento.
 
 #### How it helps
 É uma prática recomendada primária de DevOps, permitindo que os desenvolvedores mesclem com frequência as alterações de código em um repositório central onde builds e testes são executados
-
-
 
 ##### How it helps
 
