@@ -272,7 +272,7 @@ A entrega contínua (CD) é um conjunto de práticas em que as alterações de c
 
 #### Main concepts
 - [ ] *Version control*: permite que uma equipe de desenvolvedores colabore com eficiência em uma base de código compartilhada.
-- [ ] *Git*: ferramenta utilizada para gerenciar e versional todo o processo de desenvolvimento de software.
+- [ ] *Git*: ferramenta utilizada para gerenciar e versionar todo o processo de desenvolvimento de software.
 - [ ] *Automation*: é o uso de softwares para criar processos que substitui ou reduz a interação humana com os sistemas de TI. 
 - [ ] *DevOps tools*: stack de ferramentas/tecnologias de DevOps que suporta o processo de CI/CD e outras etapas.
 - [ ] *GitLab*: ferramenta completa com foco em pipelines de CI/CD.
@@ -285,7 +285,21 @@ As estratégias de CD criam um caminho totalmente automatizado para a produção
 ## Continuous Integration
 
 #### What is it
-A integração contínua, é a prática de integrar as alterações de código com a maior regularidade possível. CI é um pré-requisito para entrega contínua (CD). Tradicionalmente, o processo de CI começa quando as alterações de código são confirmadas em um sistema de controle de origem (Git, Mercurial ou Subversion) e termina com um artefato testado pronto para ser consumido por um sistema de CD.
+A integração contínua, é a prática de integrar as alterações de código com a maior regularidade possível. CI é um pré-requisito para entrega contínua (CD). Tradicionalmente, o processo de CI começa quando as alterações de código são confirmadas em um sistema de controle de origem (Git, Mercurial ou Subversion) e termina com um artefato testado pronto para ser consumido por um sistema de CD. Basicamnete, dentro de Ci você permite que os desenvolvedores mesclem com frequência as alterações de código em um repositório central (projeto) onde builds e testes são executados
+
+#### Main concepts
+- [ ] *CircleCI*: ferramenta usada no processo de CI para suportar a etapa de continuous Integration.
+- [ ] *AWS Code Pipeline*: ferramenta de CI da AWS e você pode integrar com outras ferramentas de desenvolvimento da AWS.
+- [ ] *Azure Pipelines*: ferramenta de CI que se integra por completo ao pacote de ferramentas de hospedagem do Azure.
+- [ ] *artifact*: é um subproduto do desenvolvimento de software, qualquer componente que seja necessario para o software.
+
+#### How it helps
+É uma prática recomendada primária de DevOps, permitindo que os desenvolvedores mesclem com frequência as alterações de código em um repositório central onde builds e testes são executados
+
+
+
+##### How it helps
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
