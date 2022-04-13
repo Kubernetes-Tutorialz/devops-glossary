@@ -277,6 +277,8 @@ A entrega contínua (CD) é um conjunto de práticas em que as alterações de c
 - [ ] *DevOps tools*: stack de ferramentas/tecnologias de DevOps que suporta o processo de CI/CD e outras etapas.
 - [ ] *GitLab*: ferramenta completa com foco em pipelines de CI/CD.
 - [ ] *Jenkins*: ferramenta focada em CI/CD que permite aos profissionais criarem, testarem e implantarem software.
+- [ ] *pipeline*: uma sequência de etapas para fazer o correto deploy em um ambiente de produção.
+- [ ] *agile development*: processo que visa facilitar o desenvolvimento (entregas pequenas e mais rápidas).
 
 #### How it helps
 As estratégias de CD criam um caminho totalmente automatizado para a produção que testa e implanta o software usando várias estratégias de implantação. Isso permite que os desenvolvedores implantem código com frequência, dando a eles a tranquilidade de saber que a nova revisão foi testada.
@@ -293,7 +295,7 @@ A integração contínua, é a prática de integrar as alterações de código c
 - [ ] *Azure Pipelines*: ferramenta de CI que se integra ao conjunto de serviços do Azure.
 - [ ] *artifact*: é um subproduto do desenvolvimento de software que auxili no desenvolvimento.
 - [ ] *continuous*: manter a regularidade de *commits* no projeto para tornar o processo mais simples.
-- [ ] *Git*: usado em muitos projeto para suportar o controle de versão.
+- [ ] *Git*: usado em muitos projetos para suportar o controle de versão.
 - [ ] *build automation*: a cada nova versão do aplicativo, focar no build com ferramentas e automação.
 - [ ] *daily integration*: fundamental para reduzir os custos do projetos e ajudar nos prazos do projeto.
 - [ ] *Jenkins*: ferramenta que suporta esse processo, usa plugins (+900), adorada pelo mundo DevOps.
