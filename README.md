@@ -323,10 +323,7 @@ Ao automatizar o ciclo de lançamento e forçar as organizações a lançar para
 ## Cloud Native Apps
 
 #### What is it
-Cloud Native ou [CNCF](https://www.cncf.io/) (Cloud Native Computing Foundation) faz parte da [Linux Foundation](https://linuxfoundation.org/)
-
-
-Os aplicativos nativos da nuvem são projetados especificamente para aproveitar as inovações da computação em nuvem. Esses aplicativos se integram facilmente com suas respectivas arquiteturas de nuvem, aproveitando os recursos da nuvem e os recursos de dimensionamento. Também se refere a aplicativos que aproveitam as inovações em infraestrutura impulsionadas pela computação em nuvem. Os aplicativos nativos de nuvem hoje incluem aplicativos executados no datacenter de um provedor de nuvem e em plataformas nativas de nuvem no local.
+Cloud Native ou [CNCF](https://www.cncf.io/) (Cloud Native Computing Foundation) faz parte da [Linux Foundation](https://linuxfoundation.org/) e tem propósito criar, manter e ajudar toda a comunidade em torno de projetos, conferências e eventos focados em nuvem. São milhares de desenvolvedores, Cloud Engineers atuando em conjunto suportando todo o leque de projetos da CNCF. Sobre os aplicativos nativos da nuvem são projetados especificamente para aproveitar as inovações da computação em nuvem. Esses aplicativos estão integrados com diversos provedores de nuvem do mundo como (AWS, GCP, Azure) e podem com isso aproveitar todas as vantagens de cada produto forcendo mais agilidade, inovação para o escopo de uma infraestrutura.
 
 #### Main concepts
 
