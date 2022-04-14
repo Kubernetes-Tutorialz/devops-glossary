@@ -330,6 +330,11 @@ Cloud Native ou [CNCF](https://www.cncf.io/) (Cloud Native Computing Foundation)
 - [ ] *CNCF*: sigla que corresponde à Cloud Native Computing Foundation.
 - [ ] *Cloud Native Trail Map*:
 - [ ] *Cloud Native landscape*:
+- [ ] *GitOpCon*: 
+- [ ] *Prometheus Day*:
+- [ ] *ServiceMeshCon*: 
+- [ ] *ArgoCon*: 
+- [ ] *KubeCon*:
 
 
 ## Contributing
