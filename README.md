@@ -320,6 +320,18 @@ A implantação contínua vai um passo além da entrega contínua, implantando o
 Ao automatizar o ciclo de lançamento e forçar as organizações a lançar para produção com mais frequência, a CD faz o que a CI fez pelas equipes de desenvolvimento para as equipes de operações. Especificamente, ele força as equipes de operações a automatizar as partes dolorosas e propensas a erros das implantações de produção, reduzindo o risco geral. Também torna as organizações melhores em aceitar e se adaptar às mudanças de produção, o que leva a uma maior estabilidade.
 
 
+## Cloud Native Apps
+
+#### What is it
+Cloud Native ou [CNCF](https://www.cncf.io/) (Cloud Native Computing Foundation) faz parte da [Linux Foundation](https://linuxfoundation.org/)
+
+
+Os aplicativos nativos da nuvem são projetados especificamente para aproveitar as inovações da computação em nuvem. Esses aplicativos se integram facilmente com suas respectivas arquiteturas de nuvem, aproveitando os recursos da nuvem e os recursos de dimensionamento. Também se refere a aplicativos que aproveitam as inovações em infraestrutura impulsionadas pela computação em nuvem. Os aplicativos nativos de nuvem hoje incluem aplicativos executados no datacenter de um provedor de nuvem e em plataformas nativas de nuvem no local.
+
+#### Main concepts
+
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
