@@ -336,6 +336,9 @@ Cloud Native ou [CNCF](https://www.cncf.io/) (Cloud Native Computing Foundation)
 - [ ] *ArgoCon*: 
 - [ ] *KubeCon*:
 
+#### How it helps
+Os aplicativos em nuvem entregam inovação, agilidade, rapidez para infraestruturas baseadas em nuvem, uma vez que, como avanço da cultura DevOps e das tecnologias, os aplicativos nativos em nuvem se aderiram à este cenário e a premissa da automação, colaboração trazendo mais resiliência e flexibilidade para serviços e produtos focados em nuvem. Existem uma gama enorme de aplicativos mantidos pela CNCF, que com seu uso trará muitas vantagens, como a parte de containers, provisonamento de infraestrutura e aplicativos focados em CI/CD para gerenciar todo o ciclo de desenvolvimento até o deploy do aplicativo.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
