@@ -29,6 +29,7 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 13. [Continuous Integration](#Continuous-Integration)
 14. [Continuous Deployment](#Continuous-Deployment)
 15. [Cloud Native Apps](#Cloud-Native-Apps)
+16. [Jenkins](#Jenkins)
 
 
 ## Ansible
@@ -338,6 +339,13 @@ Cloud Native ou [CNCF](https://www.cncf.io/) (Cloud Native Computing Foundation)
 
 #### How it helps
 Os aplicativos em nuvem entregam inovação, agilidade, rapidez para infraestruturas baseadas em nuvem, uma vez que, como avanço da cultura DevOps e das tecnologias, os aplicativos nativos em nuvem se aderiram à este cenário e a premissa da automação, colaboração trazendo mais resiliência e flexibilidade para serviços e produtos focados em nuvem. Existem uma gama enorme de aplicativos mantidos pela CNCF, que com seu uso trará muitas vantagens, como a parte de containers, provisonamento de infraestrutura e aplicativos focados em CI/CD para gerenciar todo o ciclo de desenvolvimento até o deploy do aplicativo.
+
+
+## Jenkins
+
+#### What is it
+Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, você pode usar plugins de diversas outras ferramentas que permite integração. O Jenkins fornece uma interface de gerenciamento e possui suporte para diversos modelos de SCMs do mercado e ainda pode ser usado em muitos provedores de nuvem como AWS, Azure, GCP e outros.
+
 
 
 ## Contributing
