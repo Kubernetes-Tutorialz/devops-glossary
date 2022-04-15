@@ -349,7 +349,10 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 #### Main concepts
 - [ ] *Plugins*: 
 
-
+#### Alternatives
+- [GitLab](https://about.gitlab.com/)
+- [CircleCI](https://circleci.com/)
+- [Bamboo](https://www.atlassian.com/br/software/bamboo)
 
 #### How it helps
 
