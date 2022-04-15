@@ -346,6 +346,12 @@ Os aplicativos em nuvem entregam inovação, agilidade, rapidez para infraestrut
 #### What is it
 Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, você pode usar plugins de diversas outras ferramentas que permite integração. O Jenkins fornece uma interface de gerenciamento e possui suporte para diversos modelos de SCMs do mercado e ainda pode ser usado em muitos provedores de nuvem como AWS, Azure, GCP e outros.
 
+#### Main concepts
+- [ ] *Plugins*: 
+
+
+
+#### How it helps
 
 
 ## Contributing
