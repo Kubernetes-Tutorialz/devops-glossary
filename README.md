@@ -360,6 +360,7 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 ## AWS
 
 #### What is it
+[AWS](https://aws.amazon.com/pt/) é um provedor de nuvem, o mais utilizado hoje no mercado de nuvem do mundo de acordo com o quadrante do Gartner. A AWS é uma plataforma completa que fornece um imenso portfolio de serviços e produtos para diferentes serviços do mercado, tecnologia, games, desenvolvimento de softwaree mais.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
