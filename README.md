@@ -8,9 +8,9 @@ A ideia inicial é ter esse glossário como um guia rápido dos principais conce
 
 ## Applicability
 - Entrevistas de Devops
-- Aprendizado de DevOps
-- Hands-on de DevOps
+- Conceitos de DevOps
 - Guia rápido de DevOps
+- Ferramentas de DevOps
 
 
 ## Table of Contents
