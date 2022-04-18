@@ -362,6 +362,17 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 #### What is it
 [AWS](https://aws.amazon.com/pt/) é um provedor de nuvem, o mais utilizado hoje no mercado de nuvem do mundo de acordo com o quadrante do Gartner. A AWS é uma plataforma completa que fornece um imenso portfolio de serviços e produtos para diferentes serviços do mercado, tecnologia, games, desenvolvimento de softwaree mais.
 
+#### Main concepts
+- [ ] *AWS Global Infrastructure*: composto de regiões, zonas de disponibilidade, datacenters e pontos de presença.
+- [ ] *regions*: regiões são cluster de datacenters, podemos dizer que é `us-east-1` ou `sa-east-1` e mais.
+- [ ] *Availability zones*: cada região tem muitas AZ, máximo 6 e minímo 2. São porcões de datacenters conectados via rede, energia e outros recursos.
+
+
+#### Alternatives
+
+#### How it helps
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
