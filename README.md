@@ -369,6 +369,7 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 - [ ] *Edge Locations*: são pontos de presença que estão próximos dos usuários finais com baixa latência de rede.
 
 #### Alternatives
+- [ ] [Azure](https://azure.microsoft.com/pt-br/)
 
 #### How it helps
 
