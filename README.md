@@ -365,10 +365,12 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 #### Main concepts
 - [ ] *AWS Global Infrastructure*: composto de regiões, zonas de disponibilidade, datacenters e pontos de presença.
 - [ ] *Regions*: regiões são clusters de datacenters, podemos dizer que é `us-east-1` ou `sa-east-1` e mais.
-- [ ] *Availability Zones*: cada região tem muitas AZ, máximo 6 e minímo 2. São porcões de datacenters conectados via rede, energia e outros recursos.
+- [ ] *Availability Zones*: São porcões de datacenters conectados via rede, energia e outros recursos.
 - [ ] *Edge Locations*: são pontos de presença que estão próximos dos usuários finais com baixa latência de rede.
 - [ ] *Shared Responsability Model*: Diagrama de responsabilidade compartilhada da AWS (Clinte x AWS).
 - [ ] *IAM*: serviço de gerenciamento de acessos e identidade da AWS (nível Global).
+- [ ] *MFA*: Multi Factor Authentication (protected your AWS account).
+- [ ] *EC2*: serviço de máquinas virtuais utilizado na AWS.
 
 #### Alternatives
 - [ ] [Azure](https://azure.microsoft.com/pt-br/)
