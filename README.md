@@ -372,6 +372,7 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 
 #### Alternatives
 - [ ] [Azure](https://azure.microsoft.com/pt-br/)
+- [ ] [GCP](https://cloud.google.com/?hl=pt-br)
 
 #### How it helps
 
