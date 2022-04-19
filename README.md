@@ -371,6 +371,9 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 - [ ] *IAM*: serviço de gerenciamento de acessos e identidade da AWS (nível Global).
 - [ ] *MFA*: Multi Factor Authentication (protected your AWS account).
 - [ ] *EC2*: serviço de máquinas virtuais utilizado na AWS.
+- [ ] *AWS CLI*: ferramenta que habilita o gerenciamento via linha de comando na AWS.
+- [ ] *AWS SDK*: ativa o acesso e gerenciamento da AWS de forma programática.
+- [ ] 
 
 #### Alternatives
 - [ ] [Azure](https://azure.microsoft.com/pt-br/)
