@@ -375,7 +375,7 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 - [ ] [GCP](https://cloud.google.com/?hl=pt-br)
 - [ ] [IBM Cloud](https://cloud.ibm.com/login)
 - [ ] [Digital Ocean](https://www.digitalocean.com/)
-- [ ] [alibaba Cloud](https://www.alibabacloud.com/)
+- [ ] [Alibaba Cloud](https://www.alibabacloud.com/)
 - [ ] [Oracle Cloud](https://www.oracle.com/br/cloud/)
 
 #### How it helps
