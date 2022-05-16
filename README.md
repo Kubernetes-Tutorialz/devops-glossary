@@ -139,6 +139,10 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 - [ ] *kubelet*: funciona como se fosse um agente que roda dentro de cada worker do Kubernetes.
 - [ ] *kubeadm*: esse comando faz o ingresso do Kubernetes dentro de um cluster.
 
+#### Kubernetes workflow
+
+*POD* -> *Replicaset* -> *Deployments*
+
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
 - [ ] [AWS EKS](https://aws.amazon.com/pt/eks/)
