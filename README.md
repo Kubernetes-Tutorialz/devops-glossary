@@ -141,7 +141,7 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 
 #### Kubernetes timeline
 
-*POD* <- *Replicaset* <- *Deployments* <- *Services*
+*My App* <- *POD* <- *Replicaset* <- *Deployments* <- *Services*
 
 #### Alternatives
 - [ ] [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform)
