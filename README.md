@@ -1,4 +1,4 @@
-https://github.com/amaurybsouza/amaurybsouza/blob/master/Neat-Work-Space-With-Indoor-Plants.jpg
+![my-setup](https://github.com/amaurybsouza/amaurybsouza/blob/master/Neat-Work-Space-With-Indoor-Plants.jpg)
 
 ## Objective
 O objetivo principal desse repositório, é ajudar à todos os profissinais que estejam buscando conhecimentos e aprimorando suas habilidades em torno dos conceitos e das ferramentas de DevOps. Resolvi manter o glossário em português, justamente para ajudar as pessoas que estão começando na [área](https://gomex.me/blog/primeiros_passos_devops/). Fique à vontade para me ajudar a escrever esse projeto, pense nesse repositório como se fosse um glossário comunitário, onde muitas pessoas acessam, escrevem e enviam *PR's* sobre conceitos, experiências e boas práticas de ferramentas que estão conectadas ao mundo DevOps.
