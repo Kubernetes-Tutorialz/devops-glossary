@@ -392,7 +392,7 @@ Jenkins é uma ferramenta completa de CI, open-source, totalmente extensível, v
 - [ ] [Oracle Cloud](https://www.oracle.com/br/cloud/)
 
 #### How it helps
-Como o maior provedor de nuvem do mundo, a AWS pode ajudar de n formas empresas, projetos e iniciativas. O grande portfólio de serviços que a empresa possui favorece muito em diversos setores dentro da tecnologia hoje presente no momento. São serviços que começam desde máquinas virtuais, armazenamentos até inteligência artificial, games, machine learning entre outros.
+Como o maior provedor de nuvem do mundo, a AWS pode ajudar de n formas empresas, projetos e iniciativas. O grande portfólio de serviços que a empresa possui favorece muito em diversos setores dentro da tecnologia hoje presente no momento. São serviços que começam desde máquinas virtuais, armazenamentos até inteligência artificial, games, machine learning entre outros. Isso sem contar que a empresa possui também cursos, eventos e conferências para alavancar os negócios das empresas, profissionais e quem mais querem aprender sobre AWS.
 
 
 ## Contributing
