@@ -151,7 +151,6 @@ O GitLab ajuda na entrega completa de uma esteira de CI/CD para um ambiente de D
 - [ ] [GCP GKE](https://cloud.google.com/kubernetes-engine?hl=pt-br)
 - [ ] [Azure AKS](https://azure.microsoft.com/pt-br/services/kubernetes-service/)
 - [ ] [Nomad](https://www.nomadproject.io/)
-- [ ] [Rancher](https://rancher.com/)
 
 #### How it helps
 O Kubernetes ajuda na automação de maneira semelhante à infraestrutura tradicional como ferramentas de código, mas tem a vantagem de trabalhar com contêineres que são mais resistentes a desvios de configuração do que máquinas virtuais ou físicas. O Kubernetes usa arquivos no formato `".YML"`, ele também funciona de forma declarativa, e você pode usá-lo em muitos cenários para implantação de aplicativos e infraestruturas.
